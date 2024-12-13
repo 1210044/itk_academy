@@ -1,0 +1,6 @@
+{
+    "multithreading_pool": 1.1034574508666992,
+    "multiprocessing_pool": 0.3586738109588623,
+    "multiprocessing": 5.398103952407837,
+    "single": 1.1023879051208496
+}
